@@ -6,5 +6,9 @@ a.forEach(console.log);
 
 console.log("")
 
+let v = {
+    name: "Diana",
+    age: 20
+}
 
 a.forEach(console.log)
